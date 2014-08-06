@@ -1,0 +1,44 @@
+<!-- Put this code (in text mode) in a WordPress page/post and active the "canon AEDE" plugin -->
+<strong>A S.COM</strong>
+www.as.com (www.a s.com)
+as.com (a s.com)
+ as.com ( a s.com)
+Login to www.as.com (www.a s.com)
+Login to as.com (a s.com)
+
+<strong>NOSOTRAS.COM</strong>
+nosotras.com (nosotras.com)
+ nosotras.com ( nosotras.com)
+
+<strong>A S.COM</strong>
+http://aei.as.com (http://aei.a s.com)
+http://as.com/aei (http://a s.com/aei) 
+http://www.as.com (http://www.a s.com)
+http://www.as.com/aei (http://www.a s.com/aei)
+http://futbol.as.com/futbol/2014/03/04/primera/1393971965_039027.html (http://futbol.a s.com/futbol/2014/03/04/primera/1393971965_039027.html)
+
+<strong>NOSOTRAS.COM</strong>
+http://aei.nosotras.com (http://aei.nosotras.com)
+http://nosotras.com/aei (http://nosotras.com/aei)
+http://www.nosotras.com (http://www.nosotras.com)
+http://www.nosotras.com/aei (http://www.nosotras.com/aei)
+http://futbol.nosotras.com/futbol/2014/03/04/primera/1393971965_039027.html (http://futbol.nosotras.com/futbol/2014/03/04/primera/1393971965_039027.html)
+
+<strong>A S.COM</strong>
+<a href="http://as.com">Link to http://as.com</a> (http://a s.com)
+<a href="http://aei.as.com">Link to http://aei.as.com</a> (http://aei.a s.com)
+<a href="http://as.com/aei">Link to http://as.com/aei</a> (http://a s.com/aei)
+<a href="http://www.as.com">Link to http://www.as.com</a> (http://www.a s.com)
+<a href="http://www.as.com/aei">Link to http://www.as.com/aei</a> (http://www.a s.com/aei)
+<a href="http://futbol.as.com/futbol/2014/03/04/primera/1393971965_039027.html">Link to http://futbol.as.com/futbol/2014/03/04/primera/1393971965_039027.html</a> (http://futbol.a s.com/futbol/2014/03/04/primera/1393971965_039027.html)
+<a href="">Link to as.com</a> (Empty link)
+
+
+<strong>NOSOTRAS.COM</strong>
+<a href="http://nosotras.com">Link to nosotras.com</a>
+<a href="http://aei.nosotras.com">Link to http://aei.nosotras.com</a>
+<a href="http://nosotras.com/aei">Link to http://nosotras.com/aei</a>
+<a href="http://www.nosotras.com">Link to http://www.nosotras.com</a>
+<a href="http://www.nosotras.com/aei">Link to http://www.nosotras.com/aei</a>
+<a href="http://futbol.nosotras.com/futbol/2014/03/04/primera/1393971965_039027.html">Link to http://futbol.nosotras.com/futbol/2014/03/04/primera/1393971965_039027.html</a>
+<a href="">Link to nosotras.com</a> (Empty link)
