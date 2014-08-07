@@ -25,7 +25,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-	include('domain-list.php');
+	include('lib/domain-list.php');
 
 	$url_base = get_bloginfo('url');
 	$domain_base = str_replace("http://","",get_bloginfo('url'));
