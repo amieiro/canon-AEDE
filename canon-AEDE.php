@@ -3,7 +3,7 @@
 Plugin Name: Canon AEDE
 Plugin URI: http://fontethemes.com/es/canon-aede/
 Description: Replace the URL base of the communication media who are members of CEDRO and AEDE
-Version: 0.1.0
+Version: 0.2.0
 Author: Jesus Amieiro
 Author URI: http://fontethemes.com
 License: GPL2 or later
