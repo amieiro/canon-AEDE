@@ -47,6 +47,9 @@ Not available.
 
 == Changelog ==
 
+= 0.2.1 =
+* Updated the compatibility with WordPress 4.0.
+
 = 0.2.0 =
 * Fix a bug that cause some false positives in the block.
 * Add some tests.
